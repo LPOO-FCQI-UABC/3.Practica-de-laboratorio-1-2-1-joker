@@ -1,6 +1,6 @@
 
 
-public class Resource {
+public class Resourcee {
     private String name;
 
     public Resource() {

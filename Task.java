@@ -1,6 +1,6 @@
 public class Task {
 
-    private String name;
+    private String namee;
     private int theEmployees;
     private int theResources;
 
